@@ -1,5 +1,6 @@
 # Mid-Boot-Camp-2023
 [Tableau Link](https://public.tableau.com/app/profile/erico.fernandes/viz/MidBootCampProject/Sheet5?publish=yes)
+https://public.tableau.com/app/profile/erico.fernandes/viz/MidBootCampProject/Story4?publish=yes
 
 This README file should work as a guide to a study called "Descriptive Analysis on Cryptocurrency between 2013 and 2019"
 The data set was retrieved from https://www.kaggle.com/datasets/philmohun/cryptocurrency-financial-data and contains 28944 rows and 8 columns.
